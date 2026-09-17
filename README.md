@@ -1,5 +1,5 @@
 # Product-guide
-Line-up of various AI chatbots & voice agents and user guide for a property management software
+Line-up of various AI chatbots & voice agents, user guide for a property management software and other markdown sample projects
 ## Writing Samples
 - [SawTech AI Products Lineup](sawtech-ai-products-lineup.md)
 - [Prime Property Management Software](prime-property-management-software.md)
